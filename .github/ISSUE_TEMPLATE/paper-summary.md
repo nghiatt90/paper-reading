@@ -1,7 +1,7 @@
 ---
 name: Paper summary
 about: Summary of a research paper
-title: ''
+title: "[WIP]"
 labels: ''
 assignees: nghiatt90
 
